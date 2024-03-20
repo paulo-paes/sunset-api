@@ -11,7 +11,7 @@
 
 # run docker container
 
-> docker run -d --name voxus -p 8000:8000 voxus:challenge
+> docker run -d --name sunset -p 8000:8000 sunset:challenge
 
 # Request for api:
 
